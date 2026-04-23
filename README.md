@@ -1,6 +1,6 @@
 # DevInsight - Developer Productivity MVP 🚀
 
-**🔗 [Live Demo Link](INSERT_YOUR_LIVE_LINK_HERE)**
+**🔗 [Live Demo Link](https://fullstack-dev-productivity.vercel.app/)**
 
 Welcome to the **DevInsight Developer Productivity MVP**. This project was built as an intern assignment to demonstrate product thinking, full-stack engineering, and the ability to move beyond raw data into actionable insights.
 
